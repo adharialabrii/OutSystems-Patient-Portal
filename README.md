@@ -33,7 +33,7 @@ Each role has its own dashboard and permissions.
 
 **Application URL**
 
-(https://personal-aj6wpmjr.outsystemscloud.com/PatientPortal/Login)
+https://personal-aj6wpmjr.outsystemscloud.com/PatientPortal/Login
 
 ---
 # Login Credentials
