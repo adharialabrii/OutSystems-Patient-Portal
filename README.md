@@ -38,27 +38,11 @@ Each role has its own dashboard and permissions.
 ---
 # Login Credentials
 
-## Administrator
-
-| Username | Password |
-|----------|----------|
-| Admin1 | admin1234 |
-
----
-
-## Doctor
-
-| Username | Password |
-|----------|----------|
-| anndevon@gmail.com | doctor1234 |
-
----
-
-## Patient
-
-| Username | Password |
-|----------|----------|
-| adharialabri.68@gmail.com | user1234 |
+| Role | Username | Password |
+|-----|-----|-----|
+| Admin | Admin1 | admin1234 | 
+| Doctor | anndevon@gmail.com | doctor1234 | 
+| Patient | adharialabri.68@gmail.com | user1234 | 
 
 ---
 
