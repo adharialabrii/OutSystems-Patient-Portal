@@ -97,7 +97,7 @@ Each role has its own dashboard and permissions.
 
 ---
 
-# 👥 User Roles
+# User Roles
 
 | Role | Permissions |
 |-------|-------------|
@@ -111,70 +111,70 @@ Each role has its own dashboard and permissions.
 
 ## Registration Page
 
-/Screenshots/Signup-screen.png
+![Signup screen](screenshots/Signup=screen.png)
 
 
 ---
 
 ## Login Page
 
-/Screenshots/Login-screen.png
+![Login screen](screenshots/Login-creen.png)
+
+
 
 ---
 
-# 👤 Patient Dashboard
+# Patient Dashboard
 
-/Screenshots/Patient-dashboard.png
+![Patient dashboard screen](screenshots/Patient-dashboard.png)
+
 
 
 ---
 
 ## Patient Booking Details
 
-/Screenshots/Book-appointment-screen.png
-/Screenshots/Confirm-appointment-screen.png
+<p align="center">
+  <img src="screenshots/Book-appointment-screen.png" width="45%" />
+  <img src="screenshots/Confirm-appointment-screen" width="45%" />
+</p>
 
 
 ---
 
-# 👨‍⚕️ Doctor Appointments
+# Doctor Appointments
 
-
-/Screenshots/Doctor-appointments.png
+![Doctor Appointments](screenshots/Doctor-appointments.png)
 
 
 ---
 
 ## Doctor Diagnosis Screen
 
-
-/Screenshots/Diagnosis screen.png
+![Diagnosis screen](screenshots/Diagnosis screen.png)
 
 
 ---
 
-# 👨‍💼 Admin Dashboard
+# Admin Dashboard
 
+![Admin screen](screenshots/Admin screen.png)
 
-/Screenshots/Admin screen.png
 
 
 ---
 
 ## Clinics Management
 
-> Add screenshot here
-
-
-/Screenshots/clinics-list.png
+![Clinics list screen](screenshots/clinics-list.png)
 
 
 ---
 
 ## Doctors Management
 
+![List of doctors screen](screenshots/list-of-doctors.png)
 
-/Screenshots/list-of-doctors.png
 
 
 ---
@@ -182,7 +182,7 @@ Each role has its own dashboard and permissions.
 
 
 
-# 🚧 Future Improvements
+# Future Improvements
 
 - Email appointment reminders
 - Appointment cancellation and rescheduling
@@ -194,6 +194,6 @@ Each role has its own dashboard and permissions.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Adhari Al-Abri**
