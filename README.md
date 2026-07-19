@@ -5,7 +5,7 @@ A full-stack **Patient Portal System** built using **OutSystems**, designed to s
 
 ---
 
-# 📋 Table of Contents
+# Table of Contents
 
 - Overview
 - Website URL
@@ -17,7 +17,7 @@ A full-stack **Patient Portal System** built using **OutSystems**, designed to s
 
 ---
 
-# 📖 Overview
+# Overview
 
 The Patient Portal System simplifies healthcare management by allowing patients to book and manage appointments, doctors to review appointments and record diagnoses, and administrators to manage the healthcare infrastructure including clinics, doctors, and specializations.
 
@@ -30,14 +30,14 @@ The application consists of three different user roles:
 Each role has its own dashboard and permissions.
 
 ---
-# 🌐 Website URL
+# Website URL
 
 **Application URL**
 
 (https://personal-aj6wpmjr.outsystemscloud.com/PatientPortal/Login)
 
 ---
-# 🔑 Login Credentials
+# Login Credentials
 
 ## Administrator
 
@@ -64,7 +64,7 @@ Each role has its own dashboard and permissions.
 ---
 
 
-# ✨ Features
+# Features
 
 ## 👤 Patient
 
@@ -77,7 +77,7 @@ Each role has its own dashboard and permissions.
 
 ---
 
-## 👨‍⚕️ Doctor
+## Doctor
 
 - Login securely
 - View scheduled appointments
@@ -87,7 +87,7 @@ Each role has its own dashboard and permissions.
 
 ---
 
-## 👨‍💼 Administrator
+## Administrator
 
 - Login securely
 - Add, edit, and delete clinics
@@ -111,14 +111,14 @@ Each role has its own dashboard and permissions.
 
 ## Registration Page
 
-![Signup screen](screenshots/Signup=screen.png)
+![Signup screen](screenshots/Signup-screen.png)
 
 
 ---
 
 ## Login Page
 
-![Login screen](screenshots/Login-creen.png)
+![Login screen](screenshots/Login-screen.png)
 
 
 
@@ -151,14 +151,14 @@ Each role has its own dashboard and permissions.
 
 ## Doctor Diagnosis Screen
 
-![Diagnosis screen](screenshots/Diagnosis screen.png)
+![Diagnosis screen](screenshots/Diagnosis-screen.png)
 
 
 ---
 
 # Admin Dashboard
 
-![Admin screen](screenshots/Admin screen.png)
+![Admin screen](screenshots/Admin-screen.png)
 
 
 
