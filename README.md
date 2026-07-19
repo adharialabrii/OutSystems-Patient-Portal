@@ -23,9 +23,9 @@ The Patient Portal System simplifies healthcare management by allowing patients 
 
 The application consists of three different user roles:
 
-- 👤 Patient
-- 👨‍⚕️ Doctor
-- 👨‍💼 Administrator
+- Patient
+- Doctor
+- Administrator
 
 Each role has its own dashboard and permissions.
 
@@ -66,7 +66,7 @@ Each role has its own dashboard and permissions.
 
 # Features
 
-## 👤 Patient
+## Patient
 
 - Register and login
 - View upcoming appointments
@@ -107,7 +107,7 @@ Each role has its own dashboard and permissions.
 
 ---
 
-# 📷 System Screenshots
+# System Screenshots
 
 ## Registration Page
 
@@ -136,7 +136,7 @@ Each role has its own dashboard and permissions.
 
 <p align="center">
   <img src="screenshots/Book-appointment-screen.png" width="45%" />
-  <img src="screenshots/Confirm-appointment-screen" width="45%" />
+  <img src="screenshots/Confirm-appointment-screen.png" width="45%" />
 </p>
 
 
