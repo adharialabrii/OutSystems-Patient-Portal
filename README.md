@@ -1,5 +1,4 @@
 # OutSystems-Patient-Portal
-Patient Portal System having doctor, patient and admin roles
 
 A full-stack **Patient Portal System** built using **OutSystems**, designed to streamline the interaction between patients, doctors, and administrators. The application provides role-based access with dedicated dashboards and functionalities for each user type.
 
